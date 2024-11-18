@@ -5,7 +5,7 @@ from collections import defaultdict
 import numpy as np
 
 # Load the YOLO model
-model = YOLO("yolo11n.pt")
+model = YOLO("models/yolo11n.pt")
 
 # Get the class labels from the model
 class_list = model.names
