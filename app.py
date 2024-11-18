@@ -15,7 +15,7 @@ st.set_page_config(page_title="🚗 Traffic Monitoring and Object Detection 🚙
 
 st.title("🚗 Traffic Monitoring and Object Detection 🚙")
 st.markdown("""
-    This application uses **YOLOv8** to detect and classify vehicles in real-time. 
+    This application uses **YOLOv11** to detect and classify vehicles in real-time. 
     Track the movement of vehicles, count their types, and analyze traffic flow. 
     Upload a video for monitoring.
 """, unsafe_allow_html=True)
